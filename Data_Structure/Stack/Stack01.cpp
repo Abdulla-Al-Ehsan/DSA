@@ -7,7 +7,6 @@ using namespace std;
 
 class mystack
 {
-
     private:
 
     int mxsize;
